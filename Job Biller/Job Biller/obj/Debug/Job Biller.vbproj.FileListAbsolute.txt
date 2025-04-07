@@ -1,0 +1,13 @@
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\bin\Debug\Job Biller.exe.config
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\bin\Debug\Job Biller.exe
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\bin\Debug\Job Biller.pdb
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\bin\Debug\Job Biller.xml
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job Biller.vbproj.AssemblyReference.cache
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job_Biller.Form1.resources
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job_Biller.Resources.resources
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job Biller.vbproj.GenerateResource.cache
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job Biller.vbproj.CoreCompileInputs.cache
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job Biller.exe
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job Biller.xml
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job Biller.pdb
+C:\Users\DON PAZZLE\source\Job Biller\Job Biller\obj\Debug\Job_Biller.Login.resources

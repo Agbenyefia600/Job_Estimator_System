@@ -1,0 +1,7 @@
+Job Table
+  Job_ID, Firstname, Surname, DOB, Address, Phone, Email, Discount, Tax, SubTotal, Total, 
+Coppies_Pipes, Chrome_Pipe, Plastic_Pipe, Labour, Travel, Receipt
+
+
+login Table
+Username & password
